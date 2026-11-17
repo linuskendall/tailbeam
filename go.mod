@@ -1,12 +1,12 @@
 module github.com/linuskendall/tailbeam
 
-go 1.27.1
+go 1.27.4
 
 require (
 	github.com/flynn/noise v1.1.0
-	golang.org/x/crypto v0.57.0
-	golang.org/x/term v0.46.0
-	tailscale.com v1.104.1
+	golang.org/x/crypto v0.59.0
+	golang.org/x/term v0.48.0
+	tailscale.com v1.104.7
 )
 
 require (
@@ -27,8 +27,8 @@ require (
 	go4.org/mem v0.0.0-20240501181205-ae6ca9944745 // indirect
 	go4.org/netipx v0.0.0-20260823151212-3075585bcbeb // indirect
 	golang.org/x/exp v0.0.0-20260908205506-85c1c2202aba // indirect
-	golang.org/x/net v0.59.0 // indirect
-	golang.org/x/sync v0.23.0 // indirect
-	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
+	golang.org/x/sync v0.24.0 // indirect
+	golang.org/x/sys v0.50.0 // indirect
 	golang.zx2c4.com/wireguard/windows v1.0.1 // indirect
 )
